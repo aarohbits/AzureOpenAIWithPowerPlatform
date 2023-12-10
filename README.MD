@@ -26,3 +26,10 @@ Integration of Power Platform with Azure OpenAI
 2.	**Resource Creation**: After your registration is approved, log in to the Azure portal and create an Azure Open AI resource. This resource will serve as the foundation for utilizing the Azure Open AI capabilities within your applications and workflows.
 
 3.	**Region Selection**: During the resource creation process, ensure that you select the specific regions  [region](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/) as your preferred region. Choosing the correct region will ensure you have access to the desired AI capabilities. Due to heavy demand some regions will not be 
+
+
+-------------------------------------------------------------------------------------------
+
+All Slide Decks 
+
+1. [20231014 Kick Start Your Azure OpenAI Journey - Part 1](<02 Slide Deck/20231014 Kick Start Your Azure OpenAI Journey - Part 1.pdf>)
