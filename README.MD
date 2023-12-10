@@ -37,3 +37,14 @@ All Slide Decks
 2. [20231104 Kick Start Your Azure OpenAI Journey - Part 2](<02 Slide Deck/20231104 Kick Start Your Azure OpenAI Journey - Part 2.pdf>)
 
 3. [20231202  Kick Start Your Azure OpenAI Journey - Part 3](<02 Slide Deck/20231202  Kick Start Your Azure OpenAI Journey - Part 3.pdf>)
+
+
+-------------------------------------------------------------------------------------------
+
+All supported slide deck additional content just as scripts that I used with screenshots and demos notes. 
+
+1. Part 1 
+
+2. Part 2 
+
+3. Part 3 
