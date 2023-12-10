@@ -30,14 +30,21 @@ Integration of Power Platform with Azure OpenAI
 
 -------------------------------------------------------------------------------------------
 
-All Slide Decks 
+All Slide Decks and  Video links
 
 1. [20231014 Kick Start Your Azure OpenAI Journey - Part 1](<02 Slide Deck/20231014 Kick Start Your Azure OpenAI Journey - Part 1.pdf>)
 
+📽️ [Kick Start Your Azure OpenAI Journey Step by Step (Part 1 of 3)](https://www.youtube.com/watch?v=_YUagKsFTR0)
+
+
 2. [20231104 Kick Start Your Azure OpenAI Journey - Part 2](<02 Slide Deck/20231104 Kick Start Your Azure OpenAI Journey - Part 2.pdf>)
+
+[Kick Start Your Azure OpenAI Journey Step by Step (Part 1 of 2)](https://www.youtube.com/watch?v=eLNWngJDlzw)
+
 
 3. [20231202  Kick Start Your Azure OpenAI Journey - Part 3](<02 Slide Deck/20231202  Kick Start Your Azure OpenAI Journey - Part 3.pdf>)
 
+[Kick Start Your Azure OpenAI Journey Step by Step (Part 1 of 3)](https://www.youtube.com/watch?v=G-q1rG9kfdE)
 
 -------------------------------------------------------------------------------------------
 
