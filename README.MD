@@ -33,3 +33,7 @@ Integration of Power Platform with Azure OpenAI
 All Slide Decks 
 
 1. [20231014 Kick Start Your Azure OpenAI Journey - Part 1](<02 Slide Deck/20231014 Kick Start Your Azure OpenAI Journey - Part 1.pdf>)
+
+2. [20231104 Kick Start Your Azure OpenAI Journey - Part 2](<02 Slide Deck/20231104 Kick Start Your Azure OpenAI Journey - Part 2.pdf>)
+
+3. [20231202  Kick Start Your Azure OpenAI Journey - Part 3](<02 Slide Deck/20231202  Kick Start Your Azure OpenAI Journey - Part 3.pdf>)
