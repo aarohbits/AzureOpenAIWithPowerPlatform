@@ -43,8 +43,8 @@ All Slide Decks
 
 All supported slide deck additional content just as scripts that I used with screenshots and demos notes. 
 
-1. Part 1 
+1. Part 1 [20231014 Kick Start Your Azure OpenAI Journey Step by NOTES - Part 1](<03 Supported Content for Slide Deck/20231014 Part 1/20231014 Kick Start Your Azure OpenAI Journey Step by NOTES - Part 1.pdf>)
 
-2. Part 2 
+2. Part 2 [20231104 Kick Start Your Azure OpenAI Journey - SCRIPT - Part 2](<03 Supported Content for Slide Deck/20231104 Part 2/20231104 Kick Start Your Azure OpenAI Journey - SCRIPT - Part 2.pdf>)
 
-3. Part 3 
+3. Part 3 [20231202 Kick Start Your-  SCRIPT - Part 3](<03 Supported Content for Slide Deck/20231202 Part 3/20231202 Kick Start Your-  SCRIPT - Part 3.pdf>)
